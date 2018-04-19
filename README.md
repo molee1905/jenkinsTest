@@ -1,2 +1,2 @@
 # jenkinsTest
-just fot jenkins test
+just for jenkins test
